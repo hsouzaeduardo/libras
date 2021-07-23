@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Handsign - ASL Hand Gesture Detection Using TensorFlow
+  Libras - TensorFlow para detecção de libras
 </h1>
 
 Libras é um simples reconhecimento de gestos de mão baseado em IA que traduz uma pose de mão no alfabeto sendo adaptado de (ASL) para libras. Usando o Tensorflow JS e seu modelo pré-carregado Handpose para detectar o objeto de mão e suas partes. A Handsign também usa uma biblioteca adicional chamada Fingerpose para classificar alguns dos gestos de mão personalizados com base na posição do dedo.
