@@ -77,9 +77,4 @@ If you want to learn more about Tensorflow JS and custom gesture handpose, pleas
 
 * [Building a Real Time Sign Language Detection App with React.JS and Tensorflow.JS](https://www.youtube.com/watch?v=ZTSRZt04JkY) - by [Nicholas Renotte](https://github.com/nicknochnack)
 
-
-
-# Deploy to your site
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue-ghost.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/syauqy/handsign-tensorflow-gatsby/tree/master&refcode=a9cb43de523c)
-
 <!-- AUTO-GENERATED-CONTENT:END -->
