@@ -38,40 +38,20 @@ Libras é um simples reconhecimento de gestos de mão baseado em IA que traduz u
 
 4. **The project is live 🚀**
   
-  Your project is live and running at `http://localhost:8000`
+  Seu projeto vai rodar neste endereço: `http://localhost:8000`
 
-  You can edit the core program at `src/pages/app.js`
+  Caso queira editar todo app está em: `src/pages/app.js`
 
-# What's inside the project
-## Extract the fingerpose data
+# O que há dentro do projeto
 
-uncomment the `<pre>` component
+# Referencias e Libs
 
-  ```js
-  <Image h="150px" objectFit="cover" id='emojimage'/> 
-
-  // uncomment this
-  {/* <pre className="pose-data" color="white" style={{position: 'fixed', top: '150px', left: '10px'}} >Pose data</pre> */}
-
-  </Container>
-  ```
-uncomment the `estimatedGestures` data to change `'.pose-data'` innerHTML
-
-  ```js
-  // document.querySelector('.pose-data').innerHTML =JSON.stringify(estimatedGestures.poseData, null, 2);
-  ```
-the `estimatedGestures` data will render on your screen.
-
-# References & Libraries
 * [Tensorflow JS](https://www.tensorflow.org/js) - A Library for ML in JS.
 
-* [Handpose](https://github.com/tensorflow/tfjs-models/tree/master/handpose) - A lightweight ML pipeline consisting of two models: A palm detector and a hand-skeleton finger tracking model.
+* [Handpose](https://github.com/tensorflow/tfjs-models/tree/master/handpose) - Um pipeline de ML leve que consiste em dois modelos: um detector de palma e um modelo de rastreamento de mão-esqueleto de dedo.
+* [Fingerpose](https://github.com/andypotato/fingerpose) - Um classificador de pose para pontos de referência manuais detectados pelo modelo do TensorFlow.js Handpose.
 
-* [Fingerpose](https://github.com/andypotato/fingerpose) - A pose classifier for hand landmarks detected by TensorFlow.js Handpose's model.
-
-* Sign language illustration is created by [Pelin Kahraman](https://thenounproject.com/pelodrome/)
-
-If you want to learn more about Tensorflow JS and custom gesture handpose, please kindly check these amazing videos
+Se você quiser saber mais sobre Tensorflow JS e gesto de mão personalizado, por favor, confira estes vídeos incríveis
 
 * [Machine Learning with TensorFlow in JavaScript](https://www.youtube.com/watch?v=WIHZ7kjJ35o) - by [Jason Lengstorf](https://github.com/jlengstorf) and [Jason Mayes](https://github.com/jasonmayes)
 
