@@ -24,7 +24,7 @@ Libras é um simples reconhecimento de gestos de mão baseado em IA que traduz u
   ```shell
   # move to the project folder and install all dependencies
   
-  cd handsign-tensorflow-gatsby
+  cd libras
   yarn install
   ```
 
