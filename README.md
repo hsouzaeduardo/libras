@@ -8,21 +8,15 @@
   Handsign - ASL Hand Gesture Detection Using TensorFlow
 </h1>
 
-Handsign is a simple AI-based hand gesture recognition that translates a hand pose into the American Sign Language (ASL) alphabet. Using Tensorflow JS and its Handpose preloaded model to detect the hand object and its parts. Handsign also uses an additional library called Fingerpose to classify certain of custom hand gestures based on the finger position.
+Libras é um simples reconhecimento de gestos de mão baseado em IA que traduz uma pose de mão no alfabeto sendo adaptado de (ASL) para libras. Usando o Tensorflow JS e seu modelo pré-carregado Handpose para detectar o objeto de mão e suas partes. A Handsign também usa uma biblioteca adicional chamada Fingerpose para classificar alguns dos gestos de mão personalizados com base na posição do dedo.
 
 `#dohackathon` `#madewithTFJS`
 
-![Handsign demo](https://media.giphy.com/media/3KCaNFPTP7ShM7V8jd/giphy.gif)
-
-## [See Demo](https://handsign-m4qq6.ondigitalocean.app/)
-
-# Installation
-1. **Clone the repository**
+# Instalação
+1. **Clone o repositório**
 
   ```shell
-  # copy the repo to your machine
-
-  git clone https://github.com/syauqy/handsign-tensorflow-gatsby.git
+    git clone https://github.com/syauqy/handsign-tensorflow-gatsby.git
   ```
 
 2. **Start the project**
