@@ -16,7 +16,7 @@ Libras é um simples reconhecimento de gestos de mão baseado em IA que traduz u
 1. **Clone o repositório**
 
   ```shell
-    git clone https://github.com/syauqy/handsign-tensorflow-gatsby.git
+    git clone https://github.com/hsouzaeduardo/libras.git
   ```
 
 2. **Start the project**
