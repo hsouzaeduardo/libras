@@ -57,4 +57,8 @@ Se você quiser saber mais sobre Tensorflow JS e gesto de mão personalizado, po
 
 * [Building a Real Time Sign Language Detection App with React.JS and Tensorflow.JS](https://www.youtube.com/watch?v=ZTSRZt04JkY) - by [Nicholas Renotte](https://github.com/nicknochnack)
 
+* [Link no Youtube](https://www.youtube.com/watch?v=J65krxa_sto) - By [Henrique Souza] 
+
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+
