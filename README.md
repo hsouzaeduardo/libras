@@ -67,7 +67,10 @@ Diagrama de pontos-chave Consulte o diagrama abaixo para saber quais são esses 
 ![image](https://user-images.githubusercontent.com/1692867/139126694-f098c81f-9464-4dba-a1a0-85c1f31c2cce.png)
 
 Pontos-chave do MediaPipe Hands: Usado no MediaPipe Hands
-Pontos-chave das mãos do MediaPipe 0: pulso
+Pontos-chave das mãos do MediaPipe 
+
+0: pulso
+
 1: thumb_cmc
 
 2: thumb_mcp
