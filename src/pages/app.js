@@ -192,7 +192,7 @@ export default function App() {
                     <Box h="20px"></Box>
                 </VStack>
 
-                <Heading as="h1" size="lg" id="app-title" color="white" textAlign="center"> Avanade Libras Translator</Heading>
+                <Heading as="h1" size="lg" id="app-title" color="white" textAlign="center">Tradutor de Libras</Heading>
 
                 <Box id="webcam-container">
                     {camState === 'on'
